@@ -34,47 +34,6 @@
 
 </div>
 
----
-
-## 📊 `COMBAT STATS`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=saravananbs&show_icons=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&icon_color=ff00ff&border_color=00ffff&border_radius=4&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravananbs&layout=compact&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&border_color=ff00ff&border_radius=4&langs_count=6"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=saravananbs&theme=neon-dark&background=0D0D0D&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ff00ff&dates=aaaaaa&border=00ffff" width="500"/>
-
-</div>
-
----
-
-## 📡 `ACTIVITY SIGNAL`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saravananbs&bg_color=0d0d0d&color=00ffff&line=ff00ff&point=ffffff&area=true&area_color=001a1a&hide_border=false&border_color=00ffff&radius=4" width="96%"/>
-
-</div>
-
----
-
-## 🎯 `CURRENT MISSION`
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║  [ ARC ]       AIML Training  ████████████████░░░░  80%         ║
-║  [ GOAL ]      Land an ML / AI Internship                        ║
-║  [ FOCUS ]     Computer Vision · LLM Agents · Problem Solving   ║
-║  [ OPEN TO ]   Collaborations · Open Source · Research          ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
----
 
 ## 📬 `OPEN COMMS`
 
