@@ -1,3 +1,70 @@
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                    INVINCIBLE TITLE CARD                  -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<sub>
+
+```
+i mean none of us are —
+```
+
+</sub>
+
+<!-- Invincible blood splatter title — animated GIF hosted on tenor/giphy -->
+<img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=72&duration=1&pause=99999&color=F5C400&background=5BB8F500&center=true&vCenter=true&width=900&height=110&lines=INVINCIBLE" alt="INVINCIBLE"/>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&height=60&color=0:FF0000,50:8B0000,100:FF0000&section=header&reversal=false&fontColor=transparent&stroke=FF0000&strokeWidth=1" width="100%"/>
+
+</div>
+
+<!-- ══════════════════════════════════════════════════════════ -->
+<!--                        HEADER                            -->
+<!-- ══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=SARAVANAN%20B%20S&fontSize=52&fontAlign=50&fontAlignY=36&color=0:0a0a0a,100:0a0a0a&fontColor=00ffff&desc=ML%20%2F%20AI%20ENGINEER%20%E2%80%94%20ORIGIN%20ARC&descSize=16&descFontColor=ff00ff&descAlignY=62&stroke=00ffff&strokeWidth=2&animation=twinkling" width="100%"/>
+
+</div>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║          NOT BORN WITH POWERS  —  BUILT THEM.                   ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## ⚡ `IDENTITY FILE`
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="175px"/>
+
+```python
+hero = {
+  "name"      :  "Saravanan B S",
+  "alias"     :  "@saravananbs",
+  "pronouns"  :  "he / him",
+  "location"  :  "Chennai, Tamil Nadu, India",
+  "degree"    :  "B.Tech — Artificial Intelligence & Data Science",
+  "college"   :  "Chennai Institute of Technology",
+  "status"    :  "🟢 ACTIVE — Deep in the AIML training arc",
+  "mission"   :  "Turn raw data into superpowers",
+  "seeking"   :  "ML / AI Internship & Collaborations",
+  "weakness"  :  "Unsolved problems  ( temporary )",
+  "contact"   :  "bssaravanan247@gmail.com",
+}
+```
+
+<br clear="right"/>
+
+---
+
 ## 🧬 `POWER STACK — ABILITIES UNLOCKED`
 
 <div align="center">
@@ -34,6 +101,47 @@
 
 </div>
 
+---
+
+## 📊 `COMBAT STATS`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=saravananbs&show_icons=true&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&icon_color=ff00ff&border_color=00ffff&border_radius=4&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravananbs&layout=compact&bg_color=0d0d0d&title_color=00ffff&text_color=ffffff&border_color=ff00ff&border_radius=4&langs_count=6"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=saravananbs&theme=neon-dark&background=0D0D0D&ring=00ffff&fire=ff00ff&currStreakLabel=00ffff&sideLabels=ff00ff&dates=aaaaaa&border=00ffff" width="500"/>
+
+</div>
+
+---
+
+## 📡 `ACTIVITY SIGNAL`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saravananbs&bg_color=0d0d0d&color=00ffff&line=ff00ff&point=ffffff&area=true&area_color=001a1a&hide_border=false&border_color=00ffff&radius=4" width="96%"/>
+
+</div>
+
+---
+
+## 🎯 `CURRENT MISSION`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  [ ARC ]       AIML Training  ████████████████░░░░  80%         ║
+║  [ GOAL ]      Land an ML / AI Internship                        ║
+║  [ FOCUS ]     Computer Vision · LLM Agents · Problem Solving   ║
+║  [ OPEN TO ]   Collaborations · Open Source · Research          ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
 
 ## 📬 `OPEN COMMS`
 
@@ -49,7 +157,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0a0a0a,100:0a0a0a&section=footer&stroke=ff00ff&strokeWidth=1&text=All%20I%20know%20is%20that%20I%20know%20nothing.&fontSize=14&fontColor=ff00ff&fontAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0a0a0a,100:0a0a0a&section=footer&stroke=ff00ff&strokeWidth=2&text=All%20I%20know%20is%20that%20I%20know%20nothing.&fontSize=14&fontColor=ff00ff&fontAlignY=55&animation=twinkling" width="100%"/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=saravananbs&color=00ffff&style=for-the-badge&label=PROFILE+SCANS)
 
