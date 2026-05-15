@@ -49,7 +49,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0a0a0a,100:0a0a0a&section=footer&stroke=ff00ff&strokeWidth=2&text=All%20I%20know%20is%20that%20I%20know%20nothing.&fontSize=14&fontColor=ff00ff&fontAlignY=55&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0a0a0a,100:0a0a0a&section=footer&stroke=ff00ff&strokeWidth=1&text=All%20I%20know%20is%20that%20I%20know%20nothing.&fontSize=14&fontColor=ff00ff&fontAlignY=55&animation=twinkling" width="100%"/>
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=saravananbs&color=00ffff&style=for-the-badge&label=PROFILE+SCANS)
 
